@@ -343,3 +343,7 @@ Excel Workbook
 - `Delivery.csv` and `Routes.csv` should be kept in the `data` directory expected by the notebook.
 - The notebook recalculates `delay_days` from `actual_days` and `promised_days`, so the analysis does not rely only on the pre-existing delay column in the Excel sheet.
 - SQL and Python provide two complementary approaches for analyzing the prepared delivery data.
+
+## Drive Link:
+- video Link =https://drive.google.com/file/d/1XddTwcluz6KMb_eEv-N6OvPIYMYez1XO/view?usp=sharing
+## 
